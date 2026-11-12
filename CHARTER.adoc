@@ -189,7 +189,7 @@ The following people support this proposal and are committed to the Charter and 
 |Alexey N. Shiklomanov | NASA Goddard Space Flight Center
 |Tyler A. Erickson | VorGeo
 |David Blodgett | U.S. Geological Survey
-|Chris Little | U.k. Met Office
+|Chris Little | U.K. Met Office
 |===
 
 === Conveners
